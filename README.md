@@ -9,5 +9,5 @@ Simply download the code and run using Unity. The game can be played by using th
 
 <div> 
   
-![Image of homepage](https://github.com/vidhichander/Red_Escape/blob/master/Img1.png) 
-![Image of game](https://github.com/vidhichander/Red_Escape/blob/master/Img2.png)
+![Image of homepage](https://github.com/vidhichander/Red_Escape/blob/master/Img1.png?s=50)
+![Image of game](https://github.com/vidhichander/Red_Escape/blob/master/Img2.png?s=50)
