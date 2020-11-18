@@ -9,7 +9,7 @@ Simply download the code and run using Unity. The game can be played by using th
 
 <div> 
 <p float="left">
-  <img src="/Img1.png" width="420 " />
-  <img src="/Img2.png" width="420" /> 
+  <img src="/Img1.png" width="400 " />
+  <img src="/Img3.png" width="400" /> 
 </p>
 
